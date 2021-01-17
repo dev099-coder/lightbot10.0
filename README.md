@@ -1,15 +1,15 @@
-# wabot-aq
-Simple WhatsApp Bot
+# Lightbot
+WhatsApp Bot simples
 
-### FOR TERMUX USER
+### PARA O USUÁRIO TERMUX
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
-> cd wabot-aq
+> git clone https://github.com/dev099-coder/lightbot10.0
+> cd lightbot10.0
 > npm install
 ```
 ###### Run
@@ -19,13 +19,13 @@ Simple WhatsApp Bot
 
 ---------
 
-### FOR WINDOWS/VPS/RDP USER
+### PARA USUÁRIO WINDOWS / VPS / RDP
 ```bash
-> git clone https://github.com/Nurutomo/wabot-aq
-> cd wabot-aq
+> git clone https://github.com/dev099-coder/lightbot10.0
+> cd lightbot10.0
 > npm install
 ```
-###### Run
+###### inciando
 ```bash
 > node index.js
 ```
