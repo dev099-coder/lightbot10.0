@@ -192,8 +192,8 @@ conn.handler = async function (m) {
 
 conn.on('message-new', conn.handler) 
 conn.on('error', conn.logger.error)
-global.mods = []
-global.prems = []
+global.mods = [5511946817667]
+global.prems = [5533988704560]
 
 global.dfail = (type, m, conn) => {
   let msg = {
